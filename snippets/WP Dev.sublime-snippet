@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+define( 'WP_DEBUG', true );
+define( 'WP_DEBUG_LOG', true );
+define( 'WP_DEBUG_DISPLAY', true );
+define( 'SCRIPT_DEBUG', ${1:false} );
+]]></content>
+	<tabTrigger>wpdev</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

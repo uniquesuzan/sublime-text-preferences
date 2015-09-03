@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+define( 'FS_METHOD', '${1:(direct|ssh2|ftpext|ftpsockets)}' );
+define( 'FTP_BASE', '${2:/path/to/wordpress/}' );
+define( 'FTP_CONTENT_DIR', '${3:/path/to/wordpress/wp-content/}' );
+define( 'FTP_PLUGIN_DIR ', '${4:/path/to/wordpress/wp-content/plugins/}' );
+define( 'FTP_PUBKEY', '${5:/home/username/.ssh/id_rsa.pub}' );
+define( 'FTP_PRIKEY', '${6:/home/username/.ssh/id_rsa}' );
+define( 'FTP_USER', '${7:username}' );
+define( 'FTP_PASS', '${8:password}' );
+define( 'FTP_HOST', '${9:ftp.example.org}' );
+define( 'FTP_SSL', ${10:false} );
+]]></content>
+	<tabTrigger>wpfs</tabTrigger>
+	<scope>source.php</scope>FS_METHOD
+</snippet>

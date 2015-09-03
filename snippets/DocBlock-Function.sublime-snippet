@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * ${1:Function Title}
+ *
+ * @author   AxisThemes
+ * @category ${3:Category}
+ * @package  ${4:Package}/${5:Functions}
+ * @version  ${6:1.0.0}
+ */
+
+if ( ! defined( 'ABSPATH' ) ) {
+	exit;
+}
+
+
+]]></content>
+	<tabTrigger>doc-func</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

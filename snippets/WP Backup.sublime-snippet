@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+define( 'AUTOSAVE_INTERVAL', ${1:300} );
+define( 'WP_POST_REVISIONS', ${2:false} );
+]]></content>
+	<tabTrigger>wpbak</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
