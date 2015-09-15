@@ -2,7 +2,7 @@
 	{ "keys": ["ctrl+shift+m"], "command": "toggle_minimap" },
 	{ "keys": ["ctrl+shift+l"], "command": "reopen_last_file" },
 	{ "keys": ["ctrl+alt+e"], "command": "encode_html_entities" },
-	{ "keys": ["ctrl+alt+p"], "command": "autoprefixer" },
+	{ "keys": ["ctrl+alt+a"], "command": "autoprefixer" },
 	{ "keys": ["alt+m"], "command": "markdown_preview" },
 	{ "keys": ["alt+v"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
 	{ "keys": ["ctrl+shift+r"], "command": "reindent", "args": {"single_line": false} },
