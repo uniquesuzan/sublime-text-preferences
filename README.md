@@ -12,7 +12,7 @@ Requirements
 Getting Started
 ---------------
 
-In general, Clone this repo to the `{executable_path}/Packages/Users` & launch the Sublime Text Editor. Now let the auto installation of the packages begins for a few moment and finally, restart Sublime Text and enjoy the backup of Preferences, Packages and Snippets.
+In general, Install [Package Control](https://packagecontrol.io/installation) and Clone this repo to the `{executable_path}/Packages/User` & launch the Sublime Text Editor. Now let the auto installation of the packages begins for a few moment and finally, restart Sublime Text and enjoy the backup of Preferences, Packages and Snippets.
 
 Dependencies
 ------------
