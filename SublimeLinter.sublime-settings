@@ -38,7 +38,33 @@
                 "args": [],
                 "excludes": []
             },
+            "phpcs": {
+                "@disable": true,
+                "args": [],
+                "excludes": [],
+                "standard": "WordPress"
+            },
             "pyflakes": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "pylint": {
+                "@disable": false,
+                "args": [],
+                "disable": "",
+                "enable": "",
+                "excludes": [],
+                "paths": [],
+                "rcfile": "",
+                "show-codes": false
+            },
+            "rst": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "ruby": {
                 "@disable": false,
                 "args": [],
                 "excludes": []

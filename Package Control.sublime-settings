@@ -42,6 +42,7 @@
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
 		"SublimeLinter-pylint",
 		"SublimeLinter-rst",
 		"SublimeLinter-ruby",
