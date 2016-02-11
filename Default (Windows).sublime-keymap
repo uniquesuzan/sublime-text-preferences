@@ -8,5 +8,6 @@
 	{ "keys": ["ctrl+shift+r"], "command": "reindent", "args": {"single_line": false} },
 	{ "keys": ["ctrl+shift+o"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"} },
 	{ "keys": ["alt+t"], "command": "unexpand_tabs", "args": {"set_translate_tabs": true} },
-	{ "keys": ["ctrl+alt+h"], "command": "goto_documentation" }
+	{ "keys": ["ctrl+alt+h"], "command": "goto_documentation" },
+	{ "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" }
 ]

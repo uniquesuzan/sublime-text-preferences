@@ -1,6 +1,6 @@
 {
 	"color_inactive_tabs": true,
-	"color_scheme": "Packages/User/SublimeLinter/Dawn (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
 	"dictionary": "Packages/Language - English/en_US.dic",
@@ -18,7 +18,7 @@
 		"__pycache__"
 	],
 	"folder_no_icon": true,
-	"font_size": 8,
+	"font_size": 10,
 	"ignored_packages":
 	[
 		"GitGutter",
